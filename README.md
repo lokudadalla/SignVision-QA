@@ -34,5 +34,10 @@
     <p>
         <img src="https://private-user-images.githubusercontent.com/133969661/341423046-6e5ce746-9f23-4b92-8214-539e6c4ea05c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg4ODk0NjksIm5iZiI6MTcxODg4OTE2OSwicGF0aCI6Ii8xMzM5Njk2NjEvMzQxNDIzMDQ2LTZlNWNlNzQ2LTlmMjMtNGI5Mi04MjE0LTUzOWU2YzRlYTA1Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYyMFQxMzEyNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04MDhiYmQ2YWQ2MjU4Y2MwODI1NmEzOTEwMjNhYTY3YTdmZTFjYWUxYzYxMWEyNDVmOGE5NDVjNTdiOWQ0NmFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.2n-ZrjEPTZFtUOH4AMcc3NiT_8zae4KlOnu8P1-u9SA" alt="Output Answer">
     </p>
+<h2>Resources</h2>
+    <ul>
+        <a href="https://towardsdatascience.com/question-answering-with-a-fine-tuned-bert-bc4dafd45626">Question Answering with a fine-tuned BERT (medium article)</a>
+        <a href="https://www.irjmets.com/uploadedfiles/paper/issue_2_february_2022/19203/final/fin_irjmets1645622414.pdf">SIGN LANGUAGE RECOGNITION USING PYTHON AND OPENCV</a>
+
 </body>
 </html>
