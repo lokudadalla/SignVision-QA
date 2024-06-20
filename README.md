@@ -37,7 +37,9 @@
 <h2>Resources</h2>
     <ul>
         <a href="https://towardsdatascience.com/question-answering-with-a-fine-tuned-bert-bc4dafd45626">Question Answering with a fine-tuned BERT (medium article)</a>
+    </ul>
+    <ul>
         <a href="https://www.irjmets.com/uploadedfiles/paper/issue_2_february_2022/19203/final/fin_irjmets1645622414.pdf">SIGN LANGUAGE RECOGNITION USING PYTHON AND OPENCV</a>
-
+    </ul>
 </body>
 </html>
